@@ -13,6 +13,8 @@ VENUE: Farset Labs?
 DATE: ?
 TIME: ?
 
+LINK TO CURRICULUM CCEA
+
 **HARDWARE:**
 
 Cytron Maker Pi Pico Board donated bt Michael Creggan
