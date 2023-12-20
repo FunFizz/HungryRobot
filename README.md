@@ -33,3 +33,6 @@ It may be useful to evaluate other methods to code for instance using: https://w
 
 **LANGUAGE:**  Micropython or Circuit Python or Block Coding?
 
+RESEARCH
+EVALUATION
+
