@@ -20,6 +20,8 @@ Information on the Cytron Maker Pi Pico Board cann be found here: ** https://git
 
 **SOFTWARE**
 
+https://github.com/happythingsmaker/TrashEatingRobot 
+
 We will need to choose an **IDE** for development purposes.
 
 The Thonny app is the orginal suggestion:  **https://thonny.org/**
