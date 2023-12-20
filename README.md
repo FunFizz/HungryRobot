@@ -18,6 +18,9 @@ Cable Ties
 
 Information on the Cytron Maker Pi Pico Board cann be found here: ** https://github.com/CytronTechnologies/MAKER-PI-PICO/tree/main**.
 
+**FILES**
+https://www.thingiverse.com/thing:2824451
+
 **SOFTWARE**
 
 https://github.com/happythingsmaker/TrashEatingRobot   
