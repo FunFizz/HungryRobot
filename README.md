@@ -6,8 +6,12 @@ This is based on the tutorial presented at **https://www.youtube.com/watch?v=KfP
 Funding has been provided curtesy of the Teaching Innovation Fund.
 
 **TARGET AUDIENCE:**  P6/P7 Children
+SCHOOLs: Possibly ?
 **GROUP SIZE:** 20
 **LENGTH OF WORKSHOP: ** 90 minutes
+VENUE: Farset Labs?
+DATE: ?
+TIME: ?
 
 **HARDWARE:**
 
