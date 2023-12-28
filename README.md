@@ -69,6 +69,17 @@ I have for example set up the sensor and the servo to work together on MicroBloc
 
 ![image](https://github.com/FunFizz/HungryRobot/assets/97193087/9c022109-1c1f-4207-84a5-db175a6202a3)
 
+I have also tried out makeplaypiper which has the advantage of seeing the code alongside this.  The great advantage of using this board is the great sound it produces.  Just add sounds:
+
+![image](https://github.com/FunFizz/HungryRobot/assets/97193087/697d98cf-9c82-49f9-95f8-446755babbf8)
+
+![image](https://github.com/FunFizz/HungryRobot/assets/97193087/95f1aa71-b837-48b5-ae23-283ec0c6ab09)
+
+![image](https://github.com/FunFizz/HungryRobot/assets/97193087/e294c6ab-a5d6-4ede-b74f-2f80c8e2ddef)
+
+
+
+
 
 To DO...EVALUATION
 **OTHER INSPIRATION**: https://www.cytron.io/tutorial/diy-piano-paper-with-raspberry-pi-pico 
