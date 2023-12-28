@@ -49,15 +49,17 @@ We will need to choose an **IDE** for development purposes.
 The Thonny app is the orginal suggestion:  **https://thonny.org/**
 
  
-**A:  SETTING UP MICROPYTHON:**  I have orginally added prototype code for Micropython.  To use Micropython on the board I choose Configure Interpreter from the Run Menu.  I selected Micropython Raspberry Pi Pico as the interpreter and tried to detect the port automatically.  I clicked on the link Install or Update Micropython.  It tells you to plug in the board while pressing the BOOTSEL button on the green Pico board to enter bootlaoder mode and then you can select the version of MicroPython you require.
+**A:  SETTING UP MICROPYTHON:**  I have orginally added prototype code for Micropython.  To use Micropython on the board I choose Configure Interpreter from the Run Menu.  I selected Micropython Raspberry Pi Pico as the interpreter and tried to detect the port automatically.  I clicked on the link Install or Update Micropython.  It tells you to plug in the board while pressing the BOOTSEL button on the green Pico board to enter bootlaoder mode and then you can select the version of MicroPython you require. Once finished unplug the board and plug it in normally and you shoudl see the status message on the bottom right of the screen which teels you the language and the COM port.  
 
  ![image](https://github.com/FunFizz/HungryRobot/assets/97193087/f2505a6a-32d5-4f3b-a7ec-7c321979a03a)
-
 ![image](https://github.com/FunFizz/HungryRobot/assets/97193087/278d630f-e1c4-493c-98d1-3d7383052894)
+[image](https://github.com/FunFizz/HungryRobot/assets/97193087/d03005bc-e632-4852-94be-0b9930720bed)
 
 **B:  CONNECTING THE SOFTWARE TO THE HARDWARE:**  I have connected the analog servo to Grove 1 and the IR detector to Grove 4 whilst using the prototype code.
 ![IMG_20231228_100903](https://github.com/FunFizz/HungryRobot/assets/97193087/9777ea8a-8447-4acd-9dbf-c1008a3e3506)
 
+**C: RUNNING THE SOFTWARE:**
+Chose Save as from the File Menu and then save the code on your computer and do again but this time store on the raspberry pico.  Press Play to run and end the script with Stop.  
 
 TO DO...RESEARCH
 **LANGUAGE:**  Micropython or Circuit Python or Block Coding? It may be useful to evaluate other methods to code using blocks for instance using: https://wokwi.com/pi-pico or https://mindplus.dfrobot.com/
