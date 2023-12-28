@@ -77,7 +77,6 @@ I have also tried out makeplaypiper which has the advantage of seeing the code a
 
 ![image](https://github.com/FunFizz/HungryRobot/assets/97193087/95f1aa71-b837-48b5-ae23-283ec0c6ab09)
 
-![image](https://github.com/FunFizz/HungryRobot/assets/97193087/e294c6ab-a5d6-4ede-b74f-2f80c8e2ddef)
 
 
 
