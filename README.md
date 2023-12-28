@@ -64,6 +64,12 @@ Chose Save as from the File Menu and then save the code on your computer and do 
 TO DO...RESEARCH
 **LANGUAGE:**  Micropython or Circuit Python or Block Coding? It may be useful to evaluate other methods to code using blocks for instance using: https://wokwi.com/pi-pico or https://mindplus.dfrobot.com/
 Evaluate benefits of teaching hands on.
+
+I have for example set up the sensor and the servo to work together on MicroBlocks..You can see how to install the software on the board here:  http://microblocks.fun/get-started#board 
+
+![image](https://github.com/FunFizz/HungryRobot/assets/97193087/9c022109-1c1f-4207-84a5-db175a6202a3)
+
+
 To DO...EVALUATION
 **OTHER INSPIRATION**: https://www.cytron.io/tutorial/diy-piano-paper-with-raspberry-pi-pico 
 
