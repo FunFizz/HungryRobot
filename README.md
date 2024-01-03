@@ -69,7 +69,7 @@ I have for example set up the sensor and the servo to work together on MicroBloc
 
 ![image](https://github.com/FunFizz/HungryRobot/assets/97193087/9c022109-1c1f-4207-84a5-db175a6202a3)
 
-I have also tried out makeplaypiper which has the advantage of seeing the code alongside this.  The great advantage of using this board is the great sound it produces.  Just add sounds:
+I have also tried out makeplaypiper (https://make.playpiper.com/) which has the advantage of seeing the code alongside this.  The great advantage of using this board is the great sound it produces.  Just add sounds:
 
 
 <img width="598" alt="my_blink" src="https://github.com/FunFizz/HungryRobot/assets/97193087/f6c7c311-0e18-4c94-a132-46fc11bafbe1">
