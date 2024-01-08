@@ -60,8 +60,9 @@ Go to makeplaypiper (https://make.playpiper.com/).  Copy the block code given be
 
 
 
-**B:  CONNECTING THE SOFTWARE TO THE HARDWARE:**  I have connected the analog servo to Grove 1 and the IR detector to Grove 6 (for analog/use Grove 4 for digital example whilst using the prototype code).
+**B:  CONNECTING THE SOFTWARE TO THE HARDWARE:**  I have connected the **analog servo** to **Grove 1** and the **IR detector** to **Grove 6** (for analog/use Grove 4 for digital example whilst using the prototype code).
 makeplaypiper (https://make.playpiper.com/)
+
 ![IMG_20240108_101354](https://github.com/FunFizz/HungryRobot/assets/97193087/be248032-c1f7-4fd2-b5d4-2eece008d143)
 
 I have also tried out  which has the advantage of seeing the code alongside this.  The great advantage of using this board is the great sound it produces.
