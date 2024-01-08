@@ -53,17 +53,14 @@ From top left to bottom right we have:
 5. Linked
 6. New Body
 
-**SOFTWARE**
+**SOFTWARE CODE**
 Go to makeplaypiper (https://make.playpiper.com/).  Copy the block code given below (Python Code in Folder).
 
-<img width="378" alt="my_Hungry Robot (3)" src="https://github.com/FunFizz/HungryRobot/assets/97193087/32b232be-2963-4b51-8055-377a69f3bc98">
+<img width="326" alt="my_Hungry Robot (4)" src="https://github.com/FunFizz/HungryRobot/assets/97193087/7366be1d-d4e2-463c-847f-93169a10fb46">
 
 
-
-**B:  CONNECTING THE SOFTWARE TO THE HARDWARE:**  I have connected the **analog servo** to **Grove 1** and the **IR detector** to **Grove 6** (for analog/use Grove 4 for digital example whilst using the prototype code).
+**CONNECTING THE SENSORS TO THE HARDWARE:**  I have connected the **servo** to **Grove 1** and the **IR detector** to **Grove 3** (use Grove 4 for digital example whilst using the prototype code).
 makeplaypiper (https://make.playpiper.com/)
-
-![IMG_20240108_101354](https://github.com/FunFizz/HungryRobot/assets/97193087/be248032-c1f7-4fd2-b5d4-2eece008d143)
 
 I have also tried out  which has the advantage of seeing the code alongside this.  The great advantage of using this board is the great sound it produces.
 
