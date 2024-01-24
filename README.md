@@ -3,6 +3,8 @@ Make a Hungry Robot with **Cytron Maker Pi Pico board**, a distance sensor and a
 
 This is based on the tutorial presented at **https://www.youtube.com/watch?v=KfP_LfUiwdc** as suggested by Michael Creggan.
 
+
+
 Funding has been provided curtesy of the Teaching Innovation Fund.
 
 **TARGET AUDIENCE:**  P6/P7 Children
@@ -101,6 +103,9 @@ I have for example set up the sensor and the servo to work together on MicroBloc
 
 **ARDUINO CODE**
 Example code provided for Arduino :  https://github.com/happythingsmaker/TrashEatingRobot 
+
+**POWERPOINT SLIDES**
+https://1drv.ms/p/s!As0G1JCrieYhgcYsszbgMaFhzVVlMA?e=nXppNs 
 
 **OTHER INSPIRATION**: https://www.cytron.io/tutorial/diy-piano-paper-with-raspberry-pi-pico 
 
