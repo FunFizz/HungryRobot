@@ -1,4 +1,6 @@
-# HungryRobot ??????
+# HungryRobot WILL BE UPDATED SOON..IN PROGRESS
+
+
 Make a Hungry Robot with **Cytron Maker Pi Pico board**, a distance sensor and a servo.  
 
 This is based on the tutorial presented at **https://www.youtube.com/watch?v=KfP_LfUiwdc** as suggested by Michael Creggan.
@@ -8,10 +10,10 @@ This is based on the tutorial presented at **https://www.youtube.com/watch?v=KfP
 Funding has been provided curtesy of the Teaching Innovation Fund.
 
 **TARGET AUDIENCE:**  P6/P7 Children
-**SCHOOLS:** Possibly Fane Primary School
+**SCHOOLS:**
 ****GROUP SIZE:** 20
 LENGTH OF WORKSHOP**: 90 minutes
-**VENUE:** Farset Labs?
+**VENUE:** 
 **DATE:** TBA - need to Book
 **TIME:** TBA
 
