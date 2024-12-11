@@ -107,7 +107,7 @@ I have for example set up the sensor and the servo to work together on MicroBloc
 Example code provided for Arduino :  https://github.com/happythingsmaker/TrashEatingRobot 
 
 **POWERPOINT SLIDES**
-https://1drv.ms/p/s!As0G1JCrieYhgcYsszbgMaFhzVVlMA?e=nXppNs 
+ 
 
 **OTHER INSPIRATION**: https://www.cytron.io/tutorial/diy-piano-paper-with-raspberry-pi-pico 
 
