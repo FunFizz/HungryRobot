@@ -1,5 +1,5 @@
 # HungryRobot WILL BE UPDATED SOON..IN PROGRESS
-![image](https://github.com/FunFizz/HungryRobot/assets/97193087/GirlsIntoElectronics.png)
+![image](https://github.com/FunFizz/HungryRobot/GirlsIntoElectronics.png)
 
 Make a Hungry Robot with **Cytron Maker Pi Pico board**, a distance sensor and a servo.  
 
